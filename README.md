@@ -1,2 +1,4 @@
-pick-super-engineer
+Room Booking System
 ===================
+
+NodeJS + Express + MongoDB + AngularJS
